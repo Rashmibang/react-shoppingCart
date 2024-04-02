@@ -1,0 +1,17 @@
+@import "bootstrap/dist/css/bootstrap.css";
+
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+}
+.aligned{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.newEntry{
+    margin:5px;
+}
